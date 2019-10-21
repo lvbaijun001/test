@@ -28,11 +28,12 @@ function App() {
         ];
     return (
         <div className="App">
+            <h1>首页111111222222</h1>
             {/*<Home/>*/}
             {/*<Set num1={num} arr={arr} />*/}
             {/*<Sta/>*/}
             {/*<Roll/>*/}
-            <Roll2 />
+            {/*<Roll2 />*/}
         </div>
     );
 }
